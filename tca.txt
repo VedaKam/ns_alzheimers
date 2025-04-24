@@ -1,0 +1,253 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red1\green32\blue135;\red0\green0\blue0;\red109\green109\blue109;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c20000\c60000;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;
+}
+\margl1440\margr1440\vieww28600\viewh17440\viewkind0
+\deftab720
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth7561\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:1431"}}{\fldrslt 
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1431}}
+\f0\fs28 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 \'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 CS; citrate synthase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01647"}}{\fldrslt \cf2 \strokec2 K01647}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/2.3.3.1"}}{\fldrslt \cf2 \strokec2 2.3.3.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11425\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:1737"}}{\fldrslt \cf2 \strokec2 1737}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 DLAT; dihydrolipoamide S-acetyltransferase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00627"}}{\fldrslt \cf2 \strokec2 K00627}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/2.3.1.12"}}{\fldrslt \cf2 \strokec2 2.3.1.12}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth10081\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:1738"}}{\fldrslt \cf2 \strokec2 1738}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 DLD; dihydrolipoamide dehydrogenase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00382"}}{\fldrslt \cf2 \strokec2 K00382}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.8.1.4"}}{\fldrslt \cf2 \strokec2 1.8.1.4}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11762\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:1743"}}{\fldrslt \cf2 \strokec2 1743}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 DLST; dihydrolipoamide S-succinyltransferase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00658"}}{\fldrslt \cf2 \strokec2 K00658}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/2.3.1.61"}}{\fldrslt \cf2 \strokec2 2.3.1.61}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth7897\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:2271"}}{\fldrslt \cf2 \strokec2 2271}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 FH; fumarate hydratase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01679"}}{\fldrslt \cf2 \strokec2 K01679}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/4.2.1.2"}}{\fldrslt \cf2 \strokec2 4.2.1.2}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11425\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:3417"}}{\fldrslt \cf2 \strokec2 3417}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 IDH1; isocitrate dehydrogenase (NADP(+)) 1 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00031"}}{\fldrslt \cf2 \strokec2 K00031}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.42"}}{\fldrslt \cf2 \strokec2 1.1.1.42}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11425\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:3418"}}{\fldrslt \cf2 \strokec2 3418}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 IDH2; isocitrate dehydrogenase (NADP(+)) 2 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00031"}}{\fldrslt \cf2 \strokec2 K00031}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.42"}}{\fldrslt \cf2 \strokec2 1.1.1.42}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14631\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:3419"}}{\fldrslt \cf2 \strokec2 3419}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 IDH3A; isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00030"}}{\fldrslt \cf2 \strokec2 K00030}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.41"}}{\fldrslt \cf2 \strokec2 1.1.1.41}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14631\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:3420"}}{\fldrslt \cf2 \strokec2 3420}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 IDH3B; isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00030"}}{\fldrslt \cf2 \strokec2 K00030}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.41"}}{\fldrslt \cf2 \strokec2 1.1.1.41}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14631\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:3421"}}{\fldrslt \cf2 \strokec2 3421}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 IDH3G; isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00030"}}{\fldrslt \cf2 \strokec2 K00030}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.41"}}{\fldrslt \cf2 \strokec2 1.1.1.41}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth9073\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:4190"}}{\fldrslt \cf2 \strokec2 4190}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 MDH1; malate dehydrogenase 1 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00025"}}{\fldrslt \cf2 \strokec2 K00025}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.37"}}{\fldrslt \cf2 \strokec2 1.1.1.37}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth9073\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:4191"}}{\fldrslt \cf2 \strokec2 4191}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 MDH2; malate dehydrogenase 2 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00026"}}{\fldrslt \cf2 \strokec2 K00026}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.1.1.37"}}{\fldrslt \cf2 \strokec2 1.1.1.37}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth672\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth8065\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:47"}}{\fldrslt \cf2 \strokec2 47}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 ACLY; ATP citrate lyase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01648"}}{\fldrslt \cf2 \strokec2 K01648}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/2.3.3.8"}}{\fldrslt \cf2 \strokec2 2.3.3.8}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth672\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth7057\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:48"}}{\fldrslt \cf2 \strokec2 48}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 ACO1; aconitase 1 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01681"}}{\fldrslt \cf2 \strokec2 K01681}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/4.2.1.3"}}{\fldrslt \cf2 \strokec2 4.2.1.3}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth9577\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:4967"}}{\fldrslt \cf2 \strokec2 4967}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 OGDH; oxoglutarate dehydrogenase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00164"}}{\fldrslt \cf2 \strokec2 K00164}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.2.4.2"}}{\fldrslt \cf2 \strokec2 1.2.4.2}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth672\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth7057\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:50"}}{\fldrslt \cf2 \strokec2 50}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 ACO2; aconitase 2 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01681"}}{\fldrslt \cf2 \strokec2 K01681}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/4.2.1.3"}}{\fldrslt \cf2 \strokec2 4.2.1.3}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth8233\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5091"}}{\fldrslt \cf2 \strokec2 5091}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PC; pyruvate carboxylase [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01958"}}{\fldrslt \cf2 \strokec2 K01958}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.4.1.1"}}{\fldrslt \cf2 \strokec2 6.4.1.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11258\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5105"}}{\fldrslt \cf2 \strokec2 5105}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PCK1; phosphoenolpyruvate carboxykinase 1 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01596"}}{\fldrslt \cf2 \strokec2 K01596}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/4.1.1.32"}}{\fldrslt \cf2 \strokec2 4.1.1.32}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth13778\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5106"}}{\fldrslt \cf2 \strokec2 5106}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01596"}}{\fldrslt \cf2 \strokec2 K01596}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/4.1.1.32"}}{\fldrslt \cf2 \strokec2 4.1.1.32}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth12266\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5160"}}{\fldrslt \cf2 \strokec2 5160}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PDHA1; pyruvate dehydrogenase E1 subunit alpha 1 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00161"}}{\fldrslt \cf2 \strokec2 K00161}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.2.4.1"}}{\fldrslt \cf2 \strokec2 1.2.4.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth12266\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5161"}}{\fldrslt \cf2 \strokec2 5161}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PDHA2; pyruvate dehydrogenase E1 subunit alpha 2 [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00161"}}{\fldrslt \cf2 \strokec2 K00161}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.2.4.1"}}{\fldrslt \cf2 \strokec2 1.2.4.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth11594\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:5162"}}{\fldrslt \cf2 \strokec2 5162}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 PDHB; pyruvate dehydrogenase E1 subunit beta [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00162"}}{\fldrslt \cf2 \strokec2 K00162}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.2.4.1"}}{\fldrslt \cf2 \strokec2 1.2.4.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1176\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth10081\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:55753"}}{\fldrslt \cf2 \strokec2 55753}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 OGDHL; oxoglutarate dehydrogenase L [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00164"}}{\fldrslt \cf2 \strokec2 K00164}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.2.4.2"}}{\fldrslt \cf2 \strokec2 1.2.4.2}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14282\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:6389"}}{\fldrslt \cf2 \strokec2 6389}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00234"}}{\fldrslt \cf2 \strokec2 K00234}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.3.5.1"}}{\fldrslt \cf2 \strokec2 1.3.5.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14114\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:6390"}}{\fldrslt \cf2 \strokec2 6390}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00235"}}{\fldrslt \cf2 \strokec2 K00235}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/1.3.5.1"}}{\fldrslt \cf2 \strokec2 1.3.5.1}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth9913\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:6391"}}{\fldrslt \cf2 \strokec2 6391}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SDHC; succinate dehydrogenase complex subunit C [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00236"}}{\fldrslt \cf2 \strokec2 K00236}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth9913\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:6392"}}{\fldrslt \cf2 \strokec2 6392}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SDHD; succinate dehydrogenase complex subunit D [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K00237"}}{\fldrslt \cf2 \strokec2 K00237}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14450\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:8801"}}{\fldrslt \cf2 \strokec2 8801}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SUCLG2; succinate-CoA ligase GDP-forming subunit beta [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01900"}}{\fldrslt \cf2 \strokec2 K01900}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.4"}}{\fldrslt \cf2 \strokec2 6.2.1.4}}\'a0{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.5"}}{\fldrslt \cf2 \strokec2 6.2.1.5}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14631\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:8802"}}{\fldrslt \cf2 \strokec2 8802}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SUCLG1; succinate-CoA ligase GDP/ADP-forming subunit alpha [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01899"}}{\fldrslt \cf2 \strokec2 K01899}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.4"}}{\fldrslt \cf2 \strokec2 6.2.1.4}}\'a0{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.5"}}{\fldrslt \cf2 \strokec2 6.2.1.5}}]\cell \lastrow\row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1008\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth14450\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/hsa:8803"}}{\fldrslt \cf2 \strokec2 8803}}\'a0\'a0\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 SUCLA2; succinate-CoA ligase ADP-forming subunit beta [KO:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/K01900"}}{\fldrslt \cf2 \strokec2 K01900}}] [EC:{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.4"}}{\fldrslt \cf2 \strokec2 6.2.1.4}}\'a0{\field{\*\fldinst{HYPERLINK "https://www.genome.jp/entry/6.2.1.5"}}{\fldrslt \cf2 \strokec2 6.2.1.5}}]\cell \lastrow\row
+}
